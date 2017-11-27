@@ -1,4 +1,4 @@
-# angular-kfxis8
+# angular-stater-kit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
